@@ -1,0 +1,33 @@
+.card{
+  box-sizing: border-box;
+  margin-top: 20%;
+  border: 1px solid silver;
+}
+.card-header{
+  background-color: silver;
+}
+.card-img-right{
+  width: 20%;
+  display: inline;
+  float: left;
+}
+.card-title{
+  display: inline;
+  margin-left: 2%;
+}
+.card-body{
+  background-color: white;
+}
+.card-footer{
+  text-align: center;
+  background-color: silver;
+}
+
+.icon{
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.profesor{
+  background-color: yellow;
+}
